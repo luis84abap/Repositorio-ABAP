@@ -13,7 +13,7 @@ ENDCLASS.
 
 CLASS zcl_save_github IMPLEMENTATION.
   METHOD if_oo_adt_classrun~main.
-    out->write( 'Save me to GitHbu' ).
+    out->write( 'Save me to GitHbu again' ).
   ENDMETHOD.
 
 ENDCLASS.
